@@ -6,7 +6,6 @@ Bienvenue dans la page d'accueil d'Instagram, une réplique de la page d'accueil
 
 HTML5 : Structure de la page.
 CSS3 : Style et mise en page pour recréer le design de la page d'accueil d'Instagram.
-JavaScript : Comportement dynamique, notamment pour les animations et les validations de formulaires.
 Font Awesome : Icônes pour les éléments de la page.
 
 🌟 Fonctionnalités
